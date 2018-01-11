@@ -1,0 +1,14 @@
+{
+    "name": "corephp/core",
+    "description": "Content Management System",
+    "authors": [
+        {
+            "name": "Chakra Rawal",
+            "email": "cnr.rawal@gmail.com"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer": "~5.2",
+    	"gregwar/image": "2.*"
+    }
+}
